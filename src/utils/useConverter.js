@@ -1,5 +1,5 @@
 import { useState } from "react";
-const FIXED_CALC = 32;
+const FIXED_CALC = 3;
 
 export default function useConverter(temperatureInput, temperatureType) {
     const [temperature, setTemperature] = useState(0);
