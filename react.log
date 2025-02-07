@@ -1,2 +1,3 @@
 #all-log-will-be-stored-here
 #please-ignore-this-file
+exitOnError: false, // do not exit on handled exceptions
